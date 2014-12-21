@@ -16,7 +16,7 @@ ni'o cnino nu finti
 ni'o sidju 
 
 .i ge'e ru'e doi djica be lo nu sidju 
-xu do birti lo du'u do na djica lo nu zbasu lo drata 
+do xu birti lo du'u do na djica lo nu zbasu lo drata 
 
 .i la mlevlaste na ckaji ro da 
 
