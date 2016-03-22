@@ -13,6 +13,12 @@ fai: [FA] place tag: rescue a sumti from the crazy escape trajectory upon which 
 .glic. .u'i 
 * zo fegli
 tolmle
+* zo glitolmo'i
+to'e morji fi lo glico .i jdika lo ka gligoiselbau .i zo jbotolmo'i
+simsa
+ni'o mi mi'e la .selkik. cu pu pilno zo glitolmo'i lo nu tavla fi lo
+nu jbotadni .i mi xalbo lo nu glitolmo'i se ja'e lo nu jbotadnytcetce
+.i je'u mi no roi glitolmo'i ri'a lo nu jbotadni .i ku'i cinri xu nai sidbo
 * zo .irci
 basti ka'u za'a zo .irk.
 .i clira nu pilno lo vlatai
@@ -24,6 +30,8 @@ basti ka'u za'a zo .irk.
 .i za'a ca lo nu zo .irci co'a zasti kei la .lojban. binxo lo fictce
 * zo jai
 .oi
+* zo jbotolmo'i
+to'e morji fi lo lojbo .i jdika lo ka jboselbau .i simsa zo glitolmo'i
 * zo kuktce
 la stela selckiku cu finti zo kuktce
 mu'i lo nu melbi fa lo za'i zo kukte zo kuktce cu simsa 
