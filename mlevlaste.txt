@@ -44,6 +44,13 @@ ni'o zo fai noi cmavo ma'oi FA zo'u
 ni'o zo fegli noi gismu zo'u
   tolmle
 
+ni'o zo goi'a noi cmavo ma'oi GOI zo'u
+  zoi .urli. https://mw.lojban.org/papri/goi'a .urli. srana
+  .i snigau lo sumka'i lo cnino .i smudu'i ra'u zo goi je cu ku'i
+  se smuni lo ji'a nu pilno lo sumka'i lo ba'e cnino je nai lo pu te
+  pilno .i mu'a lu la .djan. goi ko'a cu co'e .i la .bob. goi'a ko'a
+  cu co'e li'u zo'u: na nibli lo nu la .bob. dubdu'i la .djan.
+
 ni'o zo glitolmo’i noi lujvo zo'u
   to’e morji fi lo glico .i jdika lo ka gligoiselbau 
   (to
